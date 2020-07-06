@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#Eu sou Tryber e estou feliz!!!
 while read linha 
 do 
 
